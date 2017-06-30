@@ -91,6 +91,7 @@ main{
     flex-basis: 60%;
     position: relative;
     top: -60px;
+}
 
 aside{
     padding: 20px;
@@ -99,6 +100,7 @@ aside{
     flex-basis: 20%;
     position: relative;
     top: -60px;
+}
 
 aside h3{
     text-align: center;
